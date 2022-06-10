@@ -1,5 +1,9 @@
 Profesor: Diego Fabian Salamanca Garcia
 Usuario GitHub:  DiegoFSalamanca
+<<<<<<< HEAD
+Estudiante:Juan Sebastian Zabaleta Castañeda
+Usuario Github: juanszabaleta
+=======
 
 Estudiante: Tomas Rosero Sanabria
 Usuario Github: TomasRS26
@@ -9,9 +13,4 @@ Usuario Github:Vicvapo
 
 Estudiante: Catalina Ahmed
 Usuario Github:TheSoullessHuman
-
-Estudiante: Gabriel Gomez
-Usuario Github:Gabo1105
-
-Estudiante: Sebastian Rojas
-Usuario: BastianReds
+>>>>>>> 5d5ce5bb56214214b2fe16f9bb40dc6a796ed33d
